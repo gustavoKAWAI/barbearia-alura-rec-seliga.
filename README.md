@@ -1,5 +1,5 @@
 <DOCTYPE html>
-<html>
+<html lang="pt-br"
  <charset= "UTF-8">
 <h1> Sobre a Barbearia Alura</h1>
 
