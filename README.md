@@ -1,10 +1,15 @@
 <DOCTYPE html>
 <html lang="pt-br"
-      <head>
+     <head>
        <meta charset= "UTF-8">
        <title>Barbearia Alura</title>
+      <style>
+     p{
+            text-align: center
+            }
+      </style>
  </head>
-      <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+      <h1 style="text-align:  center">Sobre a Barbearia Alura</h1>
 <body>
         <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em  2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
